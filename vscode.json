@@ -1,0 +1,32 @@
+{
+  "workbench.colorTheme": "Dracula Pro",
+  "workbench.iconTheme": "material-icon-theme",
+  "editor.tabSize": 2,
+  "editor.fontFamily": "JetBrains Mono",
+  "editor.fontLigatures": true,
+  "eslint.validate": [
+    "javascript",
+    "typescript",
+    "javascriptreact",
+    "typescriptreact",
+    "vue"
+  ],
+  "[json]": {
+    "editor.defaultFormatter": "vscode.json-language-features"
+  },
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": true
+  },
+  "editor.formatOnSave": false,
+  "editor.inlineSuggest.enabled": true,
+  "window.zoomLevel": 1,
+  "github.copilot.enable": {
+    "*": true,
+    "yaml": false,
+    "plaintext": false,
+    "markdown": false
+  },
+  "editor.cursorBlinking": "expand",
+  "editor.cursorSmoothCaretAnimation": true,
+  "editor.cursorStyle": "block"
+}
